@@ -6,3 +6,4 @@ Hola, soy estudiante de informática, tengo conocimientos basicos de programacio
 Espero poder contribuir positivamente en esta comunidad y continuar mi aprendizaje.
 
 Saludos.
+Desde Venezuela.
